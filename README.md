@@ -26,7 +26,7 @@ TypeScript is a superset of JavaScript that adds static typing and other feature
 - **Modules**: Organize your code into reusable, maintainable modules.
 - **Advanced Tooling**: Use powerful editor features like autocompletion and inline documentation with TypeScript.
 
-<img src="https://github.com/GziXnine/GziXnine/blob/main/images/typescript.gif">
+<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
 ### Course Reference
 
@@ -43,37 +43,36 @@ Elzero Web School is a premier online platform offering a wide range of web deve
 - Check out the [GitHub account](https://github.com/ElzeroWebSchool) for more resources and code examples.
 - Learn TypeScript from the [official documentation](https://www.typescriptlang.org/docs/).
 
-<img src="https://github.com/GziXnine/GziXnine/blob/main/images/typescript.gif">
+<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
 ### Course Progress
 
 #### Course Study Plan
-- **Weeks Completed**: [02 of 02]  
+- **Weeks Completed**: [04 of 04]  
   ![100%](https://progress-bar.dev/100/?title=Done)
 
-  `Watched` - [Plan For Two Weeks](https://elzero.org/study/typescript-2021-study-plan/)
+  `Watched` - [Plan For Four Weeks](https://elzero.org/study/typescript-study-plan/)
 
 #### Videos Watched
-- **Total Videos**: [20 of 20] - Duration: 3 Hours, 30 Minutes, 00 Seconds  
+- **Total Videos**: [38 of 38] - Duration: 3 Hours, 21 Minutes, 00 Seconds  
   ![100%](https://progress-bar.dev/100/?title=Watched)  
 
 #### Assignments Solved
-- **Total Assignments**: [15 of 15] - Topics: 4  
+- **Total Assignments**: [26 of 26] - Topics: 4  
   ![100%](https://progress-bar.dev/100/?title=Solved)  
   Check Out The Assignments [Here 🤏](https://elzero.org/category/assignments/typescript-assignments/).
 
-<img src="https://github.com/GziXnine/GziXnine/blob/main/images/typescript.gif">
+<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
 <summary><span>👉</span> <strong>Courses & Articles</strong></summary>
   <ol>
     <li><a href="https://www.typescriptlang.org/docs/">TypeScript Official Documentation</a></li>
-    <li><a href="https://www.freecodecamp.org/news/learn-typescript/">Learn TypeScript</a></li>
     <li><a href="https://www.interviewbit.com/typescript-interview-questions/">TypeScript Interview Questions</a></li>
     <li><a href="https://www.udemy.com/course/typescript-complete-guide/">Complete Guide to TypeScript</a></li>
   </ol>
 </details>
 
-<img src="https://github.com/GziXnine/GziXnine/blob/main/images/typescript.gif">
+<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
 <table border="0" cellpadding="0" cellspacing="0">
   <thead>
@@ -85,23 +84,27 @@ Elzero Web School is a premier online platform offering a wide range of web deve
   </thead>
   <tbody>
     <tr>
-      <td colspan="3">
+      <td colspan="4">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/GziXnine/TypeScript_Course/tree/main/0%20-%20Lessons">All Lessons</a></td>
     </tr>
     <tr>
       <td rowspan="9"><code>Solved</code></td>
-      <td><a href="https://elzero.org/typescript-2021-assignments-lesson-1-to-6/">Assignments From 01 To 05</a></td>
-      <td><a href="https://github.com/GziXnine/TypeScript_Course/tree/main/1%20-%20Basic%20Types%2001%20~%2006">Code</a></td>
+      <td><a href="https://elzero.org/typescript-assignments-lessons-from-1-to-11/">Assignments From 01 To 11</a></td>
+      <td><a href="https://github.com/GziXnine/TypeScript_Course/tree/main/1%20-%20Intro%20%26%20Type%20Annotations%2001%20~%2011">Code</a></td>
     </tr>
     <tr>
-      <td><a href="https://elzero.org/typescript-2021-assignments-lesson-7-to-10/">Assignments From 06 To 10</a></td>
-      <td><a href="https://github.com/GziXnine/TypeScript_Course/tree/main/2%20-%20Functions%20%26%20Classes%2007%20~%2010">Code</a></td>
+      <td><a href="https://elzero.org/typescript-assignments-lessons-from-12-to-21/">Assignments From 12 To 21</a></td>
+      <td><a href="https://github.com/GziXnine/TypeScript_Course/tree/main/2%20-%20Data%20Types%2012%20~%2021">Code</a></td>
     </tr>
     <tr>
-      <td><a href="https://elzero.org/typescript-2021-assignments-lesson-11-to-15/">Assignments From 11 To 14</a></td>
-      <td><a href="https://github.com/GziXnine/TypeScript_Course/tree/main/3%20-%20Generics%2C%20Modules%2011%20~%2015">Code</a></td>
+      <td><a href="https://elzero.org/typescript-assignments-lessons-from-22-to-31/">Assignments From 22 To 31</a></td>
+      <td><a href="https://github.com/GziXnine/TypeScript_Course/tree/main/3%20-%20Interfaces%20%26%20Class%20Part%201%2022%20~%2031">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/typescript-assignments-lessons-from-32-to-38/">Assignments From 32 To 38</a></td>
+      <td><a href="https://github.com/GziXnine/TypeScript_Course/tree/main/4%20-%20Class%20Part%202%20And%20Generics%2032%20~%2038">Code</a></td>
     </tr>
   </tbody>
   <tfoot>
@@ -112,3 +115,17 @@ Elzero Web School is a premier online platform offering a wide range of web deve
     </tr>
   </tfoot>
 </table>
+
+<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
+  
+Feel free to explore the repository, follow along with the course material, and practice with the provided assignments. Happy learning!
+
+## Contribution
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
+
+## Contact
+You can reach me via [Gmail](mailto:lamahmd122@gmail.com) or on [Telegram](http://t.me/GziXnine).
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
